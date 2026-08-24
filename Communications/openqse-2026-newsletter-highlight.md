@@ -31,7 +31,7 @@ The **Quantum Resource Interface** group looked at the practical work of making 
 
 ## A community committed to the work
 
-The workshop’s greatest strength was the range of people working side by side. Contributors from industry, academia, and national laboratories brought different platforms, use cases, and experiences to the same tables. Participants from organizations including ORNL, IBM, Hewlett Packard Enterprise, AWS, Alice & Bob, Qblox, DELL, NVIDIA, Quantinuum, MQSC, TUM joined colleagues from other laboratories and universities to identify common ground and define next steps.
+The workshop’s greatest strength was the range of people working side by side. Contributors from industry, academia, and national laboratories brought different platforms, use cases, and experiences to the same tables. Participants from organizations including ORNL, ANL, LBNL/NERSC, TUM, MQV, IBM, AMD, HPE, AWS, Alice & Bob, IonQ, Quantinuum, Qblox, DELL, NVIDIA, MQSC, Siemens, joined colleagues from other laboratories and universities to identify common ground and define next steps.
 
 That collaborative approach is central to OpenQSE. The initiative is not seeking a solution owned by one institution or vendor. It is building a community around open, modular, and vendor-neutral technologies that can evolve with the field.
 
